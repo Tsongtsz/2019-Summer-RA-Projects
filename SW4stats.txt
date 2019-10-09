@@ -1,0 +1,232 @@
+Date & Time	Document	Draft	Total Words	Average Sentence	Rating	Passive Index	Rating	Style Index	Rating	Bog Index	Rating	Reading Grade	Rating	Jargon	Rating	Glue	Rating	Pep	Rating	Task	Audience	Author
+06 Aug 2019 11:12	10116_09102010_09132010.docx	Original	167	37.8	Bad	25	Fair	149	Dreadful	95	Poor	18.8	Very Difficult	4.2	Bad	32	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:41	10517_08252005_08312005.docx	Original	476	21.3	Fair	23	Fair	86	Poor	68	Fair	13.0	Fairly Difficult	0.8	Excellent	42	Fair	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 12:41	11278_04182005_05032005.docx	Original	181	28.7	Bad	33	Fair	143	Dreadful	71	Poor	15.5	Difficult	2.2	Fair	45	Wordy	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 12:41	11641_01062005_01062005.docx	Original	125	13.9	Excellent	13	Good	32	Good	52	Fair	9.7	Fairly Easy	3.2	Poor	34	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 12:41	11641_08262011_08272011.docx	Original	152	14.2	Excellent	11	Good	46	Fair	48	Fair	11.0	Standard	2.6	Fair	28	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:42	11641_12102012_12112012.docx	Original	167	15.9	Excellent	11	Good	53	Fair	41	Fair	10.9	Fairly Easy	1.8	Good	32	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:42	11754_02102012_02292012.docx	Original	244	26.1	Bad	33	Fair	118	Bad	62	Fair	14.0	Fairly Difficult	2.9	Fair	43	Fair	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:42	11850_08292005_08302005.docx	Original	203	21.7	Fair	0	Excellent	39	Good	48	Fair	12.4	Standard	2.5	Fair	36	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:42	11850_08292005_09012005.docx	Original	216	24.9	Poor	25	Fair	60	Fair	70	Fair	15.3	Difficult	4.2	Bad	35	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 12:42	11850_08292005_09022005_1.docx	Original	369	20.8	Good	18	Good	84	Poor	59	Fair	14.2	Fairly Difficult	2.7	Fair	37	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 12:43	11850_08292005_09022005_2.docx	Original	247	21.7	Fair	18	Good	72	Poor	63	Fair	13.5	Fairly Difficult	3.2	Poor	35	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 12:43	11850_08292005_09062005.docx	Original	227	24.3	Poor	11	Good	79	Poor	53	Fair	13.3	Fairly Difficult	3.1	Poor	33	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:43	11850_08292005_09072005.docx	Original	147	19.0	Good	14	Good	47	Fair	54	Fair	13.4	Fairly Difficult	1.4	Good	29	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:43	11850_08292005_09272005.docx	Original	378	26.4	Bad	43	Poor	82	Poor	76	Poor	16.6	Difficult	1.3	Good	35	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 12:44	12049_10252012_11142012.docx	Original	175	20.8	Good	13	Good	137	Dreadful	78	Poor	14.2	Fairly Difficult	3.4	Poor	38	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:44	12051_12052011_01032012.docx	Original	257	27.8	Bad	44	Poor	97	Poor	72	Poor	15.6	Difficult	1.2	Good	40	Fair	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:44	12051_12052011_12072011.docx	Original	122	19.2	Good	0	Excellent	40	Good	40	Good	10.3	Fairly Easy	2.5	Fair	37	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:44	12052_04022011_04022011.docx	Original	110	14.5	Excellent	17	Good	18	Excellent	42	Fair	9.1	Fairly Easy	4.5	Bad	26	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:45	12052_04022011_04032011.docx	Original	244	14.3	Excellent	25	Fair	24	Good	21	Good	7.1	Easy	2.5	Fair	32	Concise	18	Good	General Writing	Public	Damon Hao
+06 Aug 2019 12:45	12052_04022011_04042011.docx	Original	248	18.5	Excellent	8	Excellent	76	Poor	57	Fair	13.5	Fairly Difficult	5.2	Bad	29	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:45	12056_02102012_03062012.docx	Original	260	35.9	Bad	57	Bad	119	Bad	75	Poor	17.7	Difficult	1.5	Good	42	Fair	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:45	14541_08292005_08292005.docx	Original	257	16.2	Excellent	27	Fair	89	Poor	68	Fair	12.6	Standard	2.7	Fair	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:46	14541_08292005_08302005_1.docx	Original	220	20.2	Good	10	Excellent	22	Good	47	Fair	11.3	Standard	3.2	Poor	36	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:46	14541_08292005_08302005_2.docx	Original	149	18.9	Excellent	0	Excellent	26	Good	50	Fair	12.7	Standard	3.4	Poor	40	Fair	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 12:46	14541_08292005_09062005.docx	Original	1115	21.6	Fair	37	Poor	75	Poor	62	Fair	13.8	Fairly Difficult	1.2	Good	40	Fair	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:10	14541_08292005_09192005.docx	Original	1370	22.4	Fair	37	Poor	75	Poor	67	Fair	14.6	Fairly Difficult	2.0	Good	38	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:11	14541_09252004_10202004.docx	Original	131	20.7	Good	17	Good	15	Excellent	36	Good	10.9	Fairly Easy	3.1	Poor	29	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:11	15720_03112011_03112011.docx	Original	200	12.8	Excellent	20	Good	110	Bad	84	Poor	11.4	Standard	7.0	Dreadful	31	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:15	18091_03112011_03152011.docx	Original	357	29.1	Bad	17	Good	84	Poor	64	Fair	17.6	Difficult	3.4	Poor	39	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:18	18403_08252005_09072005.docx	Original	125	23.4	Poor	20	Good	120	Bad	79	Poor	14.0	Fairly Difficult	0.0	Excellent	42	Fair	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:18	21020_08252005_08312005.docx	Original	223	11.4	Excellent	5	Excellent	8	Excellent	31	Good	7.7	Easy	5.4	Bad	32	Concise	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:18	21020_08252005_09032005.docx	Original	212	21.6	Fair	33	Fair	56	Fair	38	Good	11.3	Standard	1.9	Good	33	Concise	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:19	21020_08252005_09092005.docx	Original	317	18.6	Excellent	6	Excellent	78	Poor	56	Fair	13.0	Fairly Difficult	3.5	Poor	32	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:19	21020_08252005_09142005.docx	Original	323	31.2	Bad	20	Good	120	Bad	81	Poor	16.2	Difficult	3.7	Poor	37	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:20	21020_08252005_09232005.docx	Original	282	13.8	Excellent	11	Good	60	Fair	52	Fair	8.9	Easy	5.0	Bad	27	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:20	21178_07202011_07272011.docx	Original	217	41.6	Unreadable	20	Good	124	Bad	82	Poor	18.1	Very Difficult	1.8	Good	36	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:20	21776_03112011_03142011.docx	Original	284	18.5	Excellent	40	Poor	80	Poor	49	Fair	11.4	Standard	2.5	Fair	40	Fair	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:21	21776_03112011_03162011.docx	Original	1144	17.7	Excellent	43	Poor	96	Poor	66	Fair	13.8	Fairly Difficult	1.7	Good	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:21	21776_03112011_03242011.docx	Original	168	12.0	Excellent	21	Fair	65	Fair	57	Fair	9.9	Fairly Easy	2.4	Fair	36	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:21	21936_05112010_05132010.docx	Original	70	20.3	Good	67	Bad	57	Fair	49	Fair	11.2	Standard	0.0	Excellent	36	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:22	22779_01212010_02162010.docx	Original	177	25.3	Bad	14	Good	73	Poor	70	Fair	14.9	Fairly Difficult	0.6	Excellent	33	Concise	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:22	23297_08252005_09012005.docx	Original	110	14.6	Excellent	29	Fair	63	Fair	63	Fair	12.4	Standard	6.4	Dreadful	26	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:23	23297_08252005_09022005.docx	Original	263	20.5	Good	25	Fair	57	Fair	54	Fair	13.2	Fairly Difficult	2.3	Fair	32	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:23	23473_10292012_11272012.docx	Original	283	26.6	Bad	0	Excellent	77	Poor	53	Fair	14.8	Fairly Difficult	2.5	Fair	32	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:23	23660_08252005_09082005.docx	Original	352	20.1	Good	29	Fair	105	Bad	79	Poor	13.1	Fairly Difficult	1.7	Good	45	Wordy	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:24	23660_08252005_09212005.docx	Original	271	23.9	Poor	0	Excellent	40	Good	54	Fair	13.4	Fairly Difficult	0.0	Excellent	42	Fair	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:24	24010_03112011_03142011.docx	Original	498	20.1	Good	33	Fair	108	Bad	83	Poor	15.3	Difficult	3.6	Poor	38	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:24	27562_08252005_09082005.docx	Original	374	9.7	Too short?	12	Good	64	Fair	60	Fair	9.3	Fairly Easy	0.8	Excellent	38	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:26	29890_08292005_08302005.docx	Original	128	16.7	Excellent	14	Good	78	Poor	83	Poor	13.6	Fairly Difficult	14.8	Dreadful	34	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:27	29890_08292005_09022005_1.docx	Original	101	27.7	Bad	33	Fair	128	Bad	80	Poor	16.7	Difficult	8.9	Dreadful	38	Concise	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:27	29890_08292005_09022005_2.docx	Original	308	20.9	Good	7	Excellent	38	Good	60	Fair	12.9	Standard	5.5	Bad	38	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:28	29890_08292005_09062005.docx	Original	173	19.6	Good	0	Excellent	57	Fair	73	Poor	14.5	Fairly Difficult	6.4	Dreadful	33	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:28	35044_04082010_05052010.docx	Original	247	22.3	Fair	45	Poor	129	Bad	92	Poor	14.9	Fairly Difficult	1.2	Good	43	Fair	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:28	35044_10202010_11032010.docx	Original	228	31.4	Bad	43	Poor	118	Bad	78	Poor	16.5	Difficult	1.3	Good	43	Fair	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:29	37234_09242005_09302005.docx	Original	410	18.5	Excellent	43	Poor	68	Fair	71	Poor	12.7	Standard	1.5	Good	36	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:29	37234_09242005_10092005.docx	Original	194	20.6	Good	44	Poor	87	Poor	75	Poor	12.9	Standard	1.5	Good	41	Fair	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:29	38790_09082011_09092011.docx	Original	279	16.4	Excellent	41	Poor	78	Poor	69	Fair	12.1	Standard	3.6	Poor	34	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:30	38790_09082011_09122011.docx	Original	379	16.1	Excellent	35	Fair	50	Fair	52	Fair	10.4	Fairly Easy	2.4	Fair	36	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:30	38790_09082011_09142011.docx	Original	185	11.8	Excellent	0	Excellent	32	Good	31	Good	8.5	Easy	2.2	Fair	30	Concise	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:31	39490_08292005_08292005.docx	Original	137	17.4	Excellent	14	Good	58	Fair	58	Fair	10.8	Fairly Easy	2.9	Fair	35	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:31	39490_08292005_09012005_1.docx	Original	187	16.3	Excellent	18	Good	42	Fair	76	Poor	13.5	Fairly Difficult	4.3	Bad	34	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:31	39490_08292005_09012005_2.docx	Original	147	18.6	Excellent	14	Good	61	Fair	63	Fair	12.3	Standard	3.4	Poor	33	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:32	39490_08292005_09062005.docx	Original	294	22.0	Fair	46	Poor	74	Poor	75	Poor	13.4	Fairly Difficult	3.4	Poor	32	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:32	39490_08292005_09152005_1.docx	Original	248	10.5	Too short?	0	Excellent	52	Fair	53	Fair	9.2	Fairly Easy	2.4	Fair	30	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:32	39490_08292005_09152005_2.docx	Original	153	14.3	Excellent	10	Excellent	26	Good	24	Good	7.8	Easy	2.0	Good	31	Concise	15	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:33	40416_07292005_08022005.docx	Original	225	31.9	Bad	71	Bad	120	Bad	77	Poor	16.6	Difficult	0.4	Excellent	39	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:33	40416_07292005_08192005.docx	Original	171	20.3	Good	38	Poor	87	Poor	50	Fair	10.2	Fairly Easy	0.6	Excellent	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:33	43449_03112011_03142011.docx	Original	141	14.6	Excellent	13	Good	21	Good	43	Fair	10.2	Fairly Easy	4.3	Bad	35	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:34	45495_05022012_05022012.docx	Original	83	24.0	Poor	67	Bad	84	Poor	81	Poor	14.3	Fairly Difficult	4.8	Bad	40	Fair	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:34	47175_02162005_02162005.docx	Original	71	10.0	Too short?	0	Excellent	14	Excellent	52	Fair	7.7	Easy	7.0	Dreadful	34	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:35	47175_02162005_02172005.docx	Original	133	17.9	Excellent	14	Good	22	Good	40	Good	10.2	Fairly Easy	3.8	Poor	38	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:35	47175_02162005_02232005.docx	Original	330	19.9	Good	25	Fair	78	Poor	39	Good	10.9	Fairly Easy	2.1	Fair	33	Concise	15	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:35	49154_08252005_09062005.docx	Original	286	16.4	Excellent	47	Poor	66	Fair	63	Fair	12.6	Standard	1.0	Excellent	31	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:36	53225_10282010_11102010.docx	Original	115	21.2	Fair	20	Good	43	Fair	57	Fair	12.3	Standard	0.9	Excellent	34	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:36	57904_03112011_03112011.docx	Original	119	14.8	Excellent	13	Good	50	Fair	42	Fair	8.7	Easy	2.5	Fair	33	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:36	57904_03112011_03142011.docx	Original	521	23.3	Poor	36	Poor	76	Poor	54	Fair	12.7	Standard	1.9	Good	40	Fair	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:37	58683_04012011_04012011.docx	Original	151	15.9	Excellent	11	Good	33	Good	39	Good	10.2	Fairly Easy	2.0	Good	32	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:37	58683_04012011_04022011.docx	Original	338	18.8	Excellent	35	Fair	59	Fair	64	Fair	12.9	Standard	4.4	Bad	38	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:38	58683_12082005_12082005.docx	Original	242	10.5	Too short?	41	Poor	78	Poor	66	Fair	9.3	Fairly Easy	2.5	Fair	35	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:38	58683_12082005_12092005.docx	Original	537	15.1	Excellent	34	Fair	63	Fair	51	Fair	8.8	Easy	1.7	Good	43	Fair	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:38	59089_10052012_10092012.docx	Original	64	9.5	Too short?	33	Fair	78	Poor	63	Fair	7.6	Easy	3.1	Poor	36	Concise	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:39	59192_10292012_10312012.docx	Original	109	14.6	Excellent	29	Fair	82	Poor	62	Fair	7.7	Easy	0.0	Excellent	39	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:39	59192_10292012_11082012.docx	Original	130	16.1	Excellent	0	Excellent	46	Fair	57	Fair	12.2	Standard	3.8	Poor	28	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:39	59459_08252005_08262005.docx	Original	712	15.1	Excellent	20	Good	61	Fair	39	Good	9.4	Fairly Easy	1.4	Good	36	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:40	59459_08252005_08292005.docx	Original	490	14.0	Excellent	24	Fair	67	Fair	50	Fair	9.9	Fairly Easy	1.6	Good	35	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:40	59459_08252005_09022005.docx	Original	176	17.5	Excellent	0	Excellent	45	Fair	46	Fair	11.2	Standard	2.3	Fair	34	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:40	59459_08252005_09042005.docx	Original	214	11.4	Excellent	11	Good	46	Fair	47	Fair	9.1	Fairly Easy	6.5	Dreadful	17	Brief	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:41	59459_08252005_09092005_1.docx	Original	336	8.0	Too short?	7	Excellent	80	Poor	84	Poor	11.2	Standard	5.7	Bad	34	Concise	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:41	59459_08252005_09092005_2.docx	Original	242	19.5	Good	17	Good	41	Fair	49	Fair	12.5	Standard	2.9	Fair	33	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:42	59459_08252005_09232005.docx	Original	455	8.7	Too short?	12	Good	50	Fair	58	Fair	9.1	Fairly Easy	3.1	Poor	41	Fair	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:42	59459_10292012_11062012.docx	Original	268	22.7	Fair	18	Good	44	Fair	51	Fair	12.4	Standard	1.1	Good	34	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:42	61815_08292005_09012005.docx	Original	216	18.9	Excellent	45	Poor	101	Bad	83	Poor	12.7	Standard	2.8	Fair	33	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:43	61815_09152004_09162004.docx	Original	104	17.8	Excellent	20	Good	38	Good	48	Fair	10.5	Fairly Easy	1.9	Good	33	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:43	61815_09152004_09172004.docx	Original	104	14.1	Excellent	29	Fair	57	Fair	62	Fair	11.0	Standard	1.9	Good	29	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:43	62148_08252005_09012005.docx	Original	292	21.8	Fair	15	Good	82	Poor	81	Poor	14.7	Fairly Difficult	5.5	Bad	35	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:44	62148_08252005_09082005.docx	Original	439	17.5	Excellent	8	Excellent	63	Fair	66	Fair	12.8	Standard	4.1	Bad	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:44	62148_08252005_09152005.docx	Original	266	20.9	Good	67	Bad	63	Fair	77	Poor	13.7	Fairly Difficult	4.9	Bad	38	Concise	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:45	63686_06022005_06092005.docx	Original	141	19.7	Good	29	Fair	85	Poor	54	Fair	11.5	Standard	2.1	Fair	43	Fair	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:45	64311_01062005_01072005.docx	Original	324	28.1	Bad	27	Fair	101	Bad	74	Poor	16.7	Difficult	3.7	Poor	32	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:45	64311_01062005_01142005.docx	Original	209	20.8	Good	20	Good	38	Good	50	Fair	12.0	Standard	1.4	Good	41	Fair	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:46	64311_01062005_01242005.docx	Original	172	20.0	Good	13	Good	52	Fair	84	Poor	14.7	Fairly Difficult	5.8	Bad	31	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:46	64936_09242005_10102005.docx	Original	235	15.6	Excellent	13	Good	93	Poor	93	Poor	13.4	Fairly Difficult	2.6	Fair	29	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:46	68292_10292012_11282012.docx	Original	268	25.3	Bad	20	Good	44	Fair	64	Fair	14.8	Fairly Difficult	1.9	Good	34	Concise	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:47	70033_05182005_05202005.docx	Original	103	14.0	Excellent	14	Good	38	Good	51	Fair	9.5	Fairly Easy	2.9	Fair	39	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:47	75241_09242005_09282005.docx	Original	357	24.4	Poor	64	Bad	72	Poor	71	Poor	15.2	Difficult	2.0	Good	36	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:47	75526_08032010_08042010.docx	Original	102	14.3	Excellent	14	Good	58	Fair	45	Fair	10.5	Fairly Easy	8.8	Dreadful	33	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:48	76081_06252010_07012010.docx	Original	375	32.9	Bad	36	Poor	112	Bad	85	Poor	18.6	Very Difficult	0.8	Excellent	43	Fair	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:48	76613_01122005_01132005.docx	Original	321	19.6	Good	25	Fair	90	Poor	82	Poor	13.7	Fairly Difficult	4.4	Bad	36	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:49	76684_08252005_08312005.docx	Original	327	19.9	Good	31	Fair	94	Poor	58	Fair	13.1	Fairly Difficult	2.1	Fair	37	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:49	76684_08252005_09042005.docx	Original	282	16.4	Excellent	24	Fair	35	Good	33	Good	9.0	Fairly Easy	1.1	Good	37	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:52	76708_11012010_11042010.docx	Original	246	24.2	Poor	30	Fair	109	Bad	70	Fair	14.7	Fairly Difficult	0.8	Excellent	39	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:52	77053_08252005_08282005.docx	Original	171	15.5	Excellent	27	Fair	52	Fair	45	Fair	9.0	Fairly Easy	4.1	Bad	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:52	77053_08252005_08312005.docx	Original	373	17.4	Excellent	14	Good	58	Fair	52	Fair	11.0	Standard	2.1	Fair	36	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:53	77053_08252005_09012005.docx	Original	352	17.9	Excellent	5	Excellent	31	Good	42	Fair	11.8	Standard	1.7	Good	35	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:53	77053_08252005_09072005.docx	Original	353	18.2	Excellent	26	Fair	56	Fair	45	Fair	10.7	Fairly Easy	0.8	Excellent	37	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:54	77053_08252005_09092005_1.docx	Original	526	13.0	Excellent	13	Good	57	Fair	50	Fair	10.8	Fairly Easy	1.1	Good	32	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:54	77053_08252005_09092005_2.docx	Original	221	15.0	Excellent	14	Good	49	Fair	45	Fair	9.5	Fairly Easy	1.4	Good	34	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:54	77053_08252005_09202005.docx	Original	217	17.4	Excellent	8	Excellent	64	Fair	30	Good	10.4	Fairly Easy	1.8	Good	25	Concise	17	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:55	77481_09132008_10042008.docx	Original	383	22.2	Fair	31	Fair	101	Bad	91	Poor	15.7	Difficult	2.3	Fair	35	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:55	77605_04092010_05062010.docx	Original	102	24.8	Poor	25	Fair	98	Poor	64	Fair	14.1	Fairly Difficult	6.9	Dreadful	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:55	77606_08252005_09062005.docx	Original	421	21.7	Fair	21	Fair	57	Fair	62	Fair	13.5	Fairly Difficult	3.3	Poor	40	Fair	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:56	78045_05042012_05102012.docx	Original	76	18.3	Excellent	25	Fair	52	Fair	37	Good	9.4	Fairly Easy	3.9	Poor	34	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:56	78045_05042012_05152012.docx	Original	76	22.0	Fair	33	Fair	52	Fair	42	Fair	10.9	Fairly Easy	3.9	Poor	34	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:56	78073_07192011_08092011.docx	Original	211	26.0	Bad	25	Fair	123	Bad	71	Poor	15.2	Difficult	0.9	Excellent	36	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:57	79323_08252005_08272005.docx	Original	247	14.5	Excellent	19	Good	24	Good	30	Good	10.0	Fairly Easy	2.0	Good	34	Concise	22	Excellent	General Writing	Public	Damon Hao
+06 Aug 2019 13:57	79323_08252005_08302005.docx	Original	263	11.7	Excellent	23	Fair	49	Fair	34	Good	8.3	Easy	0.8	Excellent	34	Concise	20	Good	General Writing	Public	Damon Hao
+06 Aug 2019 13:58	79323_08252005_09012005.docx	Original	227	18.3	Excellent	8	Excellent	52	Fair	61	Fair	13.5	Fairly Difficult	2.2	Fair	29	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:58	79323_08252005_09032005.docx	Original	377	25.1	Bad	20	Good	68	Fair	49	Fair	12.9	Standard	1.3	Good	28	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:58	79323_08252005_09142005.docx	Original	194	16.0	Excellent	18	Good	82	Poor	43	Fair	10.4	Fairly Easy	1.0	Excellent	35	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:59	79323_08252005_09022005.docx	Original	468	23.4	Poor	45	Poor	85	Poor	60	Fair	14.3	Fairly Difficult	0.9	Excellent	34	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 13:59	79444_09132008_09182008.docx	Original	311	20.9	Good	21	Fair	99	Poor	81	Poor	14.6	Fairly Difficult	1.3	Good	41	Fair	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 13:59	79490_08252005_09082005.docx	Original	247	19.9	Good	33	Fair	60	Fair	38	Good	11.1	Standard	1.2	Good	42	Fair	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:00	79915_09132008_09252008.docx	Original	178	19.0	Good	22	Fair	95	Poor	87	Poor	14.2	Fairly Difficult	2.8	Fair	30	Concise	4	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:00	80032_03112011_03132011.docx	Original	289	23.4	Poor	8	Excellent	76	Poor	46	Fair	13.0	Fairly Difficult	1.7	Good	44	Fair	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 14:01	80032_03112011_03222011.docx	Original	257	19.2	Good	0	Excellent	50	Fair	53	Fair	13.5	Fairly Difficult	3.1	Poor	35	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:01	81138_08132010_08312010.docx	Original	233	23.3	Poor	40	Poor	124	Bad	57	Fair	13.3	Fairly Difficult	1.7	Good	37	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:01	82606_10212005_11102005.docx	Original	316	16.2	Excellent	47	Poor	98	Poor	56	Fair	10.9	Fairly Easy	3.5	Poor	43	Fair	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:02	82775_03312010_04292010.docx	Original	110	27.3	Bad	25	Fair	136	Dreadful	60	Fair	14.5	Fairly Difficult	1.8	Good	35	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:02	83799_10152010_10292010.docx	Original	79	14.0	Excellent	40	Poor	63	Fair	54	Fair	8.5	Easy	5.1	Bad	34	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:02	84072_06132005_06242005.docx	Original	222	21.9	Fair	70	Bad	108	Bad	86	Poor	12.0	Standard	2.7	Fair	41	Fair	5	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:03	84084_08252005_09062005.docx	Original	169	22.1	Fair	57	Bad	100	Poor	82	Poor	12.7	Standard	1.2	Good	36	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:03	84621_05232011_05272011.docx	Original	187	20.6	Good	22	Fair	90	Poor	73	Poor	12.2	Standard	0.0	Excellent	40	Fair	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:03	84738_08252005_09082005.docx	Original	155	23.0	Poor	67	Bad	64	Fair	69	Fair	13.5	Fairly Difficult	3.9	Poor	34	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:04	85173_01242011_02102011.docx	Original	273	22.6	Fair	50	Poor	102	Bad	71	Poor	12.8	Standard	1.8	Good	44	Fair	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:04	85627_03112011_03172011.docx	Original	200	18.9	Excellent	10	Excellent	45	Fair	84	Poor	15.4	Difficult	8.0	Dreadful	37	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:05	85913_08252005_08312005.docx	Original	315	14.7	Excellent	10	Excellent	76	Poor	45	Fair	10.1	Fairly Easy	2.5	Fair	28	Concise	17	Good	General Writing	Public	Damon Hao
+06 Aug 2019 14:05	85913_08252005_09022005_1.docx	Original	201	17.5	Excellent	45	Poor	54	Fair	54	Fair	9.7	Fairly Easy	4.5	Bad	25	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:05	85913_08252005_09022005_2.docx	Original	481	16.3	Excellent	24	Fair	66	Fair	58	Fair	10.7	Fairly Easy	1.7	Good	42	Fair	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:06	85913_08252005_09072005.docx	Original	415	20.4	Good	25	Fair	50	Fair	57	Fair	13.5	Fairly Difficult	2.9	Fair	34	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:06	85978_04152010_04202010.docx	Original	270	27.0	Bad	40	Poor	96	Poor	63	Fair	15.8	Difficult	0.4	Excellent	41	Fair	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:06	86135_04072005_05052005.docx	Original	127	29.5	Bad	75	Bad	125	Bad	67	Fair	14.7	Fairly Difficult	1.6	Good	45	Wordy	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:07	86223_09132008_09152008.docx	Original	107	32.7	Bad	33	Fair	158	Dreadful	87	Poor	19.1	Very Difficult	1.9	Good	32	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:07	86249_10242011_11092012.docx	Original	184	43.8	Unreadable	50	Poor	125	Bad	114	Bad	19.0	Very Difficult	1.6	Good	35	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:08	86715_08312010_09132010.docx	Original	272	20.9	Good	46	Poor	91	Poor	57	Fair	12.8	Standard	1.8	Good	40	Fair	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:11	88266_02022005_02032005.docx	Original	83	23.3	Poor	33	Fair	12	Excellent	64	Fair	14.2	Fairly Difficult	3.6	Poor	34	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:11	88421_09202010_09222010.docx	Original	141	22.3	Fair	50	Poor	127	Bad	58	Fair	12.2	Standard	0.0	Excellent	40	Fair	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:11	88587_04292005_05102005.docx	Original	234	32.1	Bad	100	Bad	136	Dreadful	83	Poor	16.9	Difficult	0.9	Excellent	48	Wordy	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:12	89269_06292012_07242012.docx	Original	139	22.0	Fair	17	Good	93	Poor	65	Fair	12.9	Standard	2.9	Fair	35	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:12	89393_01132012_02102012.docx	Original	137	25.8	Bad	40	Poor	58	Fair	84	Poor	15.8	Difficult	1.5	Good	36	Concise	4	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:12	89575_10292012_11082012.docx	Original	211	28.6	Bad	57	Bad	42	Fair	57	Fair	14.1	Fairly Difficult	0.0	Excellent	37	Concise	5	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:13	89941_08092011_08122011.docx	Original	196	17.9	Excellent	10	Excellent	61	Fair	71	Poor	12.3	Standard	3.6	Poor	36	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:13	90010_10112005_10112005.docx	Original	120	18.8	Excellent	33	Fair	33	Good	72	Poor	13.3	Fairly Difficult	4.2	Bad	36	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:13	90010_10112005_10272005.docx	Original	81	14.8	Excellent	20	Good	49	Fair	78	Poor	11.9	Standard	4.9	Bad	31	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:14	90038_08252005_08262005.docx	Original	218	15.0	Excellent	7	Excellent	13	Excellent	46	Fair	10.8	Fairly Easy	5.5	Bad	25	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:14	90038_08252005_09222005.docx	Original	420	21.4	Fair	11	Good	80	Poor	69	Fair	14.1	Fairly Difficult	4.3	Bad	42	Fair	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:15	90136_02252010_03122010.docx	Original	226	36.2	Bad	50	Poor	199	Dreadful	99	Poor	18.8	Very Difficult	0.0	Excellent	46	Wordy	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:15	90361_01212005_01242005.docx	Original	124	19.5	Good	50	Poor	96	Poor	66	Fair	10.7	Fairly Easy	1.6	Good	44	Fair	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:15	90533_09132008_09182008.docx	Original	258	20.2	Good	8	Excellent	112	Bad	86	Poor	15.4	Difficult	2.3	Fair	34	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:16	90533_09242005_10032005.docx	Original	607	15.9	Excellent	22	Fair	80	Poor	80	Poor	12.6	Standard	5.4	Bad	36	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:16	90533_09242005_10172005.docx	Original	472	20.1	Good	20	Good	55	Fair	63	Fair	13.4	Fairly Difficult	1.9	Good	29	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:16	90748_07282010_08062010.docx	Original	212	29.0	Bad	29	Fair	117	Bad	98	Poor	18.3	Very Difficult	2.4	Fair	38	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:17	90793_08292005_08302005.docx	Original	83	8.5	Too short?	0	Excellent	60	Fair	50	Fair	9.5	Fairly Easy	1.2	Good	33	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:17	90793_08292005_09022005.docx	Original	300	24.5	Poor	8	Excellent	56	Fair	53	Fair	14.3	Fairly Difficult	2.3	Fair	35	Concise	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:18	90793_08292005_09092005.docx	Original	679	13.1	Excellent	26	Fair	73	Poor	58	Fair	10.5	Fairly Easy	2.5	Fair	30	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:18	90871_08252005_08302005.docx	Original	374	20.7	Good	41	Poor	66	Fair	54	Fair	11.9	Standard	1.6	Good	35	Concise	9	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:18	90871_08252005_09062005.docx	Original	350	27.9	Bad	58	Bad	100	Poor	66	Fair	14.7	Fairly Difficult	1.1	Good	39	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:19	90914_08022011_08092011.docx	Original	135	18.0	Excellent	14	Good	59	Fair	40	Good	8.8	Easy	0.7	Excellent	39	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:19	90951_01162012_01172012.docx	Original	229	14.6	Excellent	21	Fair	69	Fair	70	Fair	11.0	Standard	3.5	Poor	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:19	90955_11192010_11242010.docx	Original	161	21.7	Fair	71	Bad	86	Poor	75	Poor	12.1	Standard	1.2	Good	42	Fair	5	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:20	91116_09132008_09302008.docx	Original	268	18.6	Excellent	50	Poor	78	Poor	70	Fair	13.0	Fairly Difficult	1.5	Good	35	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:20	91141_03092010_03102010.docx	Original	214	19.5	Good	27	Fair	79	Poor	72	Poor	12.0	Standard	1.9	Good	41	Fair	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:20	91141_03092010_03152010.docx	Original	218	21.1	Fair	20	Good	82	Poor	78	Poor	13.8	Fairly Difficult	1.8	Good	41	Fair	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:21	91455_07212011_08032011.docx	Original	158	29.6	Bad	60	Bad	75	Poor	69	Fair	15.8	Difficult	0.0	Excellent	37	Concise	5	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:21	91605_11052010_11082010.docx	Original	156	21.3	Fair	14	Good	102	Bad	40	Good	11.6	Standard	0.0	Excellent	36	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:22	92215_09132008_09192008.docx	Original	790	20.4	Good	50	Poor	103	Bad	71	Poor	13.5	Fairly Difficult	2.2	Fair	34	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:22	92222_12192012_01142013.docx	Original	127	23.6	Poor	40	Poor	125	Bad	76	Poor	13.2	Fairly Difficult	0.0	Excellent	41	Fair	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:22	92222_12192012_12202012.docx	Original	278	33.1	Bad	25	Fair	161	Dreadful	106	Bad	18.7	Very Difficult	3.6	Poor	40	Fair	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:23	92306_03192010_04082010.docx	Original	120	18.3	Excellent	17	Good	83	Poor	58	Fair	13.0	Fairly Difficult	2.5	Fair	33	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:23	92330_04142010_04152010.docx	Original	166	19.9	Good	38	Poor	78	Poor	59	Fair	11.6	Standard	0.6	Excellent	41	Fair	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:23	92330_04142010_05072010.docx	Original	184	25.0	Bad	29	Fair	86	Poor	73	Poor	15.1	Difficult	0.0	Excellent	43	Fair	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:24	92395_05062010_05062010.docx	Original	102	17.8	Excellent	40	Poor	58	Fair	75	Poor	11.9	Standard	2.9	Fair	30	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:24	92750_06142010_06152010.docx	Original	110	31.3	Bad	33	Fair	109	Bad	79	Poor	15.6	Difficult	1.8	Good	35	Concise	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:25	92897_10152010_11122010.docx	Original	240	28.9	Bad	50	Poor	100	Poor	62	Fair	15.9	Difficult	0.8	Excellent	40	Fair	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:25	92931_10152010_10292010.docx	Original	269	23.6	Poor	27	Fair	115	Bad	62	Fair	13.0	Fairly Difficult	1.5	Good	46	Wordy	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 14:25	93007_05252012_06012012.docx	Original	161	22.0	Fair	43	Poor	155	Dreadful	74	Poor	13.8	Fairly Difficult	3.1	Poor	40	Fair	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:26	93048_05262011_05312011.docx	Original	134	20.7	Good	17	Good	74	Poor	50	Fair	10.6	Fairly Easy	0.7	Excellent	41	Fair	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:26	93080_08112010_08242010.docx	Original	120	16.1	Excellent	14	Good	116	Bad	40	Good	10.1	Fairly Easy	3.3	Poor	37	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:26	93080_08112010_09012010.docx	Original	116	17.8	Excellent	17	Good	120	Bad	44	Fair	11.3	Standard	3.4	Poor	35	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:27	93177_08062010_08162010.docx	Original	147	23.3	Poor	33	Fair	74	Poor	54	Fair	13.0	Fairly Difficult	0.7	Excellent	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:27	93177_08062010_08242010.docx	Original	248	26.8	Bad	44	Poor	145	Dreadful	59	Fair	14.3	Fairly Difficult	0.8	Excellent	41	Fair	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:27	93351_10142010_11122010.docx	Original	202	46.5	Unreadable	25	Fair	153	Dreadful	129	Bad	18.4	Very Difficult	2.5	Fair	38	Concise	4	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:28	93433_08122011_08152011.docx	Original	292	31.4	Bad	33	Fair	130	Bad	85	Poor	17.2	Difficult	6.2	Dreadful	39	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:31	92395_05062010_05062010.docx	Original	102	17.8	Excellent	40	Poor	58	Fair	75	Poor	11.9	Standard	2.9	Fair	30	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:32	92750_06142010_06152010.docx	Original	110	31.3	Bad	33	Fair	109	Bad	79	Poor	15.6	Difficult	1.8	Good	35	Concise	6	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:32	92897_10152010_11122010.docx	Original	240	28.9	Bad	50	Poor	100	Poor	62	Fair	15.9	Difficult	0.8	Excellent	40	Fair	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:32	92931_10152010_10292010.docx	Original	269	23.6	Poor	27	Fair	115	Bad	62	Fair	13.0	Fairly Difficult	1.5	Good	46	Wordy	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 14:33	93007_05252012_06012012.docx	Original	161	22.0	Fair	43	Poor	155	Dreadful	74	Poor	13.8	Fairly Difficult	3.1	Poor	40	Fair	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 14:33	93048_05262011_05312011.docx	Original	134	20.7	Good	17	Good	74	Poor	50	Fair	10.6	Fairly Easy	0.7	Excellent	41	Fair	7	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 14:33	93080_08112010_08242010.docx	Original	120	16.1	Excellent	14	Good	116	Bad	40	Good	10.1	Fairly Easy	3.3	Poor	37	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 16:08	93080_08112010_09012010.docx	Original	116	16.3	Excellent	14	Good	120	Bad	43	Fair	10.7	Fairly Easy	3.4	Poor	35	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 16:08	93177_08062010_08162010.docx	Original	147	23.3	Poor	33	Fair	74	Poor	54	Fair	13.0	Fairly Difficult	0.7	Excellent	37	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 16:09	93177_08062010_08242010.docx	Original	248	26.8	Bad	44	Poor	145	Dreadful	59	Fair	14.3	Fairly Difficult	0.8	Excellent	41	Fair	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 16:09	93351_10142010_11122010.docx	Original	202	46.5	Unreadable	25	Fair	153	Dreadful	129	Bad	18.4	Very Difficult	2.5	Fair	38	Concise	4	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 16:10	93433_08122011_08152011.docx	Original	292	31.4	Bad	33	Fair	130	Bad	85	Poor	17.2	Difficult	6.2	Dreadful	39	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:13	86745_05262011_06202011.docx	Original	148	34.8	Bad	50	Poor	128	Bad	81	Poor	17.0	Difficult	0.7	Excellent	41	Fair	5	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 17:14	87487_02152005_02172005.docx	Original	136	30.8	Bad	0	Excellent	125	Bad	94	Poor	18.5	Very Difficult	3.7	Poor	29	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:15	86745_05262011_05272011.docx	Original	128	20.2	Good	0	Excellent	125	Bad	62	Fair	12.1	Standard	2.3	Fair	34	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:16	87134_11102005_11142005.docx	Original	225	24.2	Poor	22	Fair	124	Bad	72	Poor	14.8	Fairly Difficult	3.1	Poor	32	Concise	14	Good	General Writing	Public	Damon Hao
+06 Aug 2019 17:16	76684_08252005_09132005.docx	Original	152	15.2	Excellent	0	Excellent	26	Good	26	Good	9.3	Fairly Easy	0.7	Excellent	36	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:17	87051_02222005_02242005.docx	Original	169	18.7	Excellent	33	Fair	124	Bad	74	Poor	12.9	Standard	1.8	Good	38	Concise	11	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:17	87020_10222010_11092010.docx	Original	183	25.9	Bad	14	Good	81	Poor	63	Fair	14.2	Fairly Difficult	1.6	Good	40	Fair	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 17:18	86959_06142005_06152005.docx	Original	223	27.5	Bad	25	Fair	112	Bad	63	Fair	15.5	Difficult	2.7	Fair	33	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:18	87484_08102005_08152005.docx	Original	220	27.3	Bad	13	Good	154	Dreadful	67	Fair	14.8	Fairly Difficult	0.0	Excellent	40	Fair	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:18	86959_06142005_07142005.docx	Original	455	23.7	Poor	58	Bad	70	Fair	55	Fair	12.8	Standard	1.8	Good	39	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:19	87128_02052010_02082010.docx	Original	99	23.3	Poor	0	Excellent	131	Dreadful	37	Good	11.9	Standard	0.0	Excellent	36	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:19	76684_08252005_09092005.docx	Original	426	15.8	Excellent	0	Excellent	42	Fair	25	Good	10.0	Fairly Easy	0.5	Excellent	34	Concise	10	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:20	87128_02052010_02082010.docx	Original	99	23.3	Poor	0	Excellent	131	Dreadful	37	Good	11.9	Standard	0.0	Excellent	36	Concise	13	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:21	76684_08252011_09062005.docx	Original	560	15.9	Excellent	29	Fair	64	Fair	44	Fair	9.5	Fairly Easy	2.3	Fair	37	Concise	12	Fair	General Writing	Public	Damon Hao
+06 Aug 2019 17:21	87487_02152005_03162005.docx	Original	109	26.8	Bad	25	Fair	165	Dreadful	80	Poor	15.4	Difficult	1.8	Good	34	Concise	16	Good	General Writing	Public	Damon Hao
+06 Aug 2019 17:21	87137_09242005_09292005.docx	Original	368	16.7	Excellent	23	Fair	65	Fair	67	Fair	12.7	Standard	1.1	Good	32	Concise	8	Poor	General Writing	Public	Damon Hao
+06 Aug 2019 17:21	87771_11022010_11122010.docx	Original	190	29.8	Bad	17	Good	115	Bad	84	Poor	17.6	Difficult	7.4	Dreadful	36	Concise	8	Poor	General Writing	Public	Damon Hao

@@ -1,0 +1,55 @@
+PREPROCESSING
+1) remove preamble
+   e.g. "80032 3/11/2011 3/13/2011"
+
+2) remove boilerplate text at the end of the article
+   e.g. "For more information..."
+
+3) convert uppercase headlines to titlecase
+   e.g.    "HIBBETT ANNOUNCES INITIAL AFFECT OF HURRICANE KATRINA"
+   becomes "Hibbett Announces Initial Affect Of Hurricane Katrina"
+
+4) remove headline if specified
+
+
+
+POSTPROCESSING
+1) if the market of a ticker was recognized as an organization, discard it
+   e.g.     (<ORGANIZATION>Nasdaq</ORGANIZATION>: C)
+   becomes  (Nasdaq: C)
+
+2) if the surface of an organization in the headline contains an action, split it on the action and take the first part
+   e.g.     <ORGANIZATION>Shaw Issues a Statement</ORGANIZATION>
+   becomes  <ORGANIZATION>Shaw</ORGANIZATION> Issues a Statement
+
+3) if the surface of an organization in the headline contains an extraneous noun, split it on the noun and take the first part
+   e.g.     <ORGANIZATION>Shaw Update:</ORGANIZATION>
+   becomes  <ORGANIZATION>Shaw</ORGANIZATION> Update:
+
+4) if a date with pattern "MM/DD/YY" was not recognized, add it
+   e.g.     1/13/06
+   becomes  <DATE>1/13/06</DATE>
+
+5) if a date with pattern "YYYY-MM-DD" was not recognized, add it
+   e.g.    2016-01-01
+   becomes <DATE>2016-01-01</DATE>
+
+6) if a time with pattern "HH:MM:SS" was not recognized, add it
+   e.g.    22:00:05
+   becomes <TIME>22:00:05</TIME>
+
+7) if an organization is followed by a ticker, merge the two
+   e.g.     <ORGANIZATION>Entergy Corporation</ORGANIZATION> <ORGANIZATION>(NYSE: ETR)</ORGANIZATION>
+   becomes  <ORGANIZATION>Entergy Corporation (NYSE: ETR)</ORGANIZATION>
+
+8) if a time is followed by "UTC", merge the two
+   e.g.    <TIME>20:36:14</TIME> UTC
+   becomes <TIME>20:36:14 UTC</TIME>
+
+9) if a location is followed by another location that represents its US State, merge the two
+   e.g.    <LOCATION>BATON ROUGE</LOCATION>, <LOCATION>La.</LOCATION>
+   becomes <LOCATION>BATON ROUGE, La.</LOCATION>
+
+10) if a person is preceded by a personal title, merge the two
+   e.g.    Mr <PERSON>Bernhard</PERSON>
+   becomes <PERSON>Mr Bernhard</PERSON>

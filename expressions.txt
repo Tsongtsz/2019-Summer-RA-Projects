@@ -1,0 +1,6 @@
+(?:does not|doesn't|do not|don't|normally|now|still|we|currently|but|and|also) (?:aim|estimate|forecast|hope|plan|project|target)
+(?:firm|management|normally|now|still|currently|corporation|company|but|and|also) (?:aims|estimates|forecasts|hopes|plans|projects|targets)
+(?:is|isn't|not|now|still|currently|are|aren't) (?:aimed|anticipated|assumed|believed|committed|estimated|expected|forecast|foreseen|hoped|intended|planned|projected|sought|targeted|willed)
+(?:is|isn't|not|now|still|are|aren't|we're|currently) (?:aiming|anticipating|assuming|believing|committing|estimating|expecting|forecasting|foreseeing|hoping|intending|planning|projecting|seeking|targeting|willing)
+(?:coming|following|incoming|next|subsequent|upcoming) (?:fiscal|month|period|quarter|year)
+(?:anticipates?|(?<!I )assumes?|(?<!I )believes?|commits?|expects?|foresees?|future|intends?|seeks?|(?<!I )wills?|(?<!I )will not|(?<!I )won't|(?<!I)'ll)
