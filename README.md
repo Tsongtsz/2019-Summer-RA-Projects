@@ -1,2 +1,2 @@
-# 2019-Summer-RA-Projects
+# NLP and Statistical Analysis about Financial Disclosures (2019-Summer-RA-Projects)
 This repository includes three projects on different accounting/finance research topics, including textual analysis and sentiment analysis.
